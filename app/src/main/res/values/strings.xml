@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Hábitos</string>
+  <string name="title_activity_main">Meus Hábitos</string>
+  <string name="title_habit_list">Lista de Hábitos</string>
+
+  <!-- Content Descriptions and Accessibility Text -->
+  <string name="accessibility_add">Adicionar Hábito</string>
+</resources>
